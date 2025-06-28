@@ -1,4 +1,4 @@
-# RadarGuard 🚗📍
+# RadarGuard 🚨🚀📍
 
 **RadarGuard** est une application mobile qui alerte les conducteurs lorsqu’ils approchent de radars ou de zones à risque. Grâce à la géolocalisation et à l'intégration cartographique, l’application permet de rouler plus prudemment et d'éviter les mauvaises surprises sur la route.
 
