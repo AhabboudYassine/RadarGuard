@@ -15,8 +15,7 @@
 
 ## 🛠️ Technologies utilisées
 
-- **Flutter** ou **Android Java/Kotlin** (à adapter selon ta stack)
-- **Google Maps API** ou **Leaflet / OpenStreetMap**
+- **Arduino UNO**
 - **Géolocalisation**
 - **Notification / Alert system**
 
